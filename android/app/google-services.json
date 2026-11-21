@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496645992505",
+    "project_id": "loteria-push-ivon",
+    "storage_bucket": "loteria-push-ivon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496645992505:android:405d6c05a01eaf10585de8",
+        "android_client_info": {
+          "package_name": "com.example.oteria_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzA55SVSdnSVXaBhI0IkjMKkxodoIbDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
