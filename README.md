@@ -1,10 +1,13 @@
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224421" src="https://github.com/user-attachments/assets/b47b5322-288f-4210-9594-c1f5486d4f45" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224316" src="https://github.com/user-attachments/assets/ef5aaa69-000d-436a-aa67-1a7bfb29d560" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224216" src="https://github.com/user-attachments/assets/ee5614b9-324d-4b5d-9416-e414941d3135" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224146" src="https://github.com/user-attachments/assets/eb96b9db-6232-4ad5-af6f-d3249b4a0640" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224017" src="https://github.com/user-attachments/assets/46a1ca32-a55e-462f-981f-d3f56d525148" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 223527" src="https://github.com/user-attachments/assets/fd15f524-77c9-4161-95a6-56b6091d23c1" />
-<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 223226" src="https://github.com/user-attachments/assets/7ad1523d-88b5-4544-81c1-91085003004b" />
-# oteria_push
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 223226" src="https://github.com/user-attachments/assets/ba7ea4e5-a53c-4c40-a055-940ac9abdb50" />
 
-A new Flutter project.
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 223527" src="https://github.com/user-attachments/assets/c1913e52-ba5d-494b-8a89-69d2f28162e4" />
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224017" src="https://github.com/user-attachments/assets/035fc72d-6e1e-45d4-b4f9-0e94a5173f86" />
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224146" src="https://github.com/user-attachments/assets/aec22eff-cea4-48d1-ace8-b4a17f91d7d3" />
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224216" src="https://github.com/user-attachments/assets/51144537-9962-4bfd-a105-a67e6f6f8820" />
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224316" src="https://github.com/user-attachments/assets/e0d542b8-d090-4d7f-a8d3-29bad360790f" />
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-11-20 224421" src="https://github.com/user-attachments/assets/9766d75d-d1f3-42db-abb9-42af10791da6" />
